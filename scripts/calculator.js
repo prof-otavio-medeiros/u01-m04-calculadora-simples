@@ -1,4 +1,4 @@
-function result() {
+function calculateResult() {
   let val01 = parseFloat(document.getElementById("val01").value);
   let val02 = parseFloat(document.getElementById("val02").value);
   let operation = document.getElementById("operation").value;
